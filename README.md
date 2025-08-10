@@ -103,7 +103,8 @@ The Q2 2025 dataset contains six separate sheets:
 ---
 
 ## 📷 Dashboard Preview
-
+For a visual walkthrough of the dashboard insights, view the full report here:  
+[View FAERS Dashboard (PDF)](https://github.com/Progati00/FDA-FAERS-2025/blob/main/FAERS_ANALYSIS.pdf)
 
 ---
 
