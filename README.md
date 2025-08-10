@@ -8,7 +8,7 @@ The objective was to **clean, standardize, and merge** multiple raw data sources
 
 ## 📂 Dataset Information
 **Source:** [FDA FAERS Quarterly Data Extract Files](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html)  
-The files contain raw data extracted from the AERS database for the indicated time range and are not cumulative.
+The files contain raw data extracted from the FAERS database for the indicated time range and are not cumulative.
 
 The Q2 2025 dataset contains six separate sheets:
 
